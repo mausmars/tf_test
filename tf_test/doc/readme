@@ -1,0 +1,19 @@
+安装
+https://www.tensorflow.org/install/pip
+
+Python 3.8（仅支持 CPU）
+https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.3.0-cp38-cp38-win_amd64.whl
+
+pip install tf-nightly
+
+idea中建立sdk
+安装依赖
+packeages
+
+
+------------------------------------
+MNIST数据库
+http://yann.lecun.com/exdb/mnist/
+
+tf api
+https://tensorflow.google.cn/api_docs/python/tf
