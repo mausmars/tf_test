@@ -8,7 +8,7 @@ idea中建立sdk
 安装依赖
 packeages
 
-numpy需要1.19.3版本 
+numpy需要1.19.3版本
 pip install numpy == 1.19.3
 pip install tf-nightly
 ------------------------------------
